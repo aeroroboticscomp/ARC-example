@@ -1,4 +1,4 @@
-HARC Competition 2018-2019 AUTONOMOUS README
+HARC Competition 2019-2020 AUTONOMOUS README
 
 This contains a example code for the HARC competition for 2017-2018. Note, this only runs the "separate" determination. The files do the following:
 
