@@ -22,8 +22,8 @@ In each solution folder, there will be the
 
 A Jupyter Notebook (https://jupyter.org/) is a hybrid code environment + word document that allows programmers to instantly see the results of their code without the need to install on their machines. An online Google-based link will also be provided that will allow students to use work on this at home or in school without a computer that has Python installed.
 
-# Pre-requisites
-There are some basic pre-requisites that are assumed for team members attempting this competition. They are listed below:
+# Prerequisites
+There are some basic prerequisites that are assumed for team members attempting this competition. They are listed below:
 - Basic knoweldge of math (addition, subtraction, fractions)
 - Computer access/ability to install python and its associated libraries (Python 3 will be used for all code)
  
