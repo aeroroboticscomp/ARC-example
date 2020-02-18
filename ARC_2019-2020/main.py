@@ -11,11 +11,9 @@ def main(filename):
     path = determinePath(waypoints)
 
     # Export path
-
-
-
-
+    for i in path: # Print out order of Lat Long
+    	print("Latitude: "+str(waypoints['latitude'][i])+" Longitude: "+str(waypoints['longitude'][i]))
 
 
 if __name__ == '__main__':
-    main()
+	main("waypoint_1.txt")
